@@ -1,0 +1,5 @@
+#!/usr/bin/perl -w
+
+use vk_database;
+
+print $VK_DATABASE::db_name;
